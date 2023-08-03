@@ -2,5 +2,8 @@
 
 # Command to build docker image 
 
-// docker build -t pokemon_analysis .
+```
+docker build -t pokemon_analysis .
+```
+
 
