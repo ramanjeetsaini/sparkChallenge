@@ -1,5 +1,6 @@
-# sparkChallenge
-## command to build docker image 
+## sparkChallenge
 
-docker build -t pokemon_analysis .
+# Command to build docker image 
+
+// docker build -t pokemon_analysis .
 
