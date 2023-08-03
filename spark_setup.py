@@ -7,7 +7,7 @@ def create_spark_session():
         SparkSession
         .builder
         .appName("SparkApp")
-        .master("local[1]")
+        .master("local[*]")
         .getOrCreate()
     )
 spark = create_spark_session()
