@@ -1,4 +1,4 @@
-# sparkChallenge
+# Spark Project
 
 This is a spark project for analyzing Pokemon dataset
 
