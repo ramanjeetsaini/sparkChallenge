@@ -1,5 +1,7 @@
 # sparkChallenge
 
+This is a spark project for analyzing Pokemon dataset
+
  Command to build docker image 
 
 ```
